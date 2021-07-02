@@ -1,0 +1,10 @@
+Sau khi chạy database TT_TiengAnh.sql, phân mảnh, mở file PhanTan.sql và cài các link server, 
+stored procedures, trigger theo hướng dẫn.
+
+Sau khi cài xong ta project TTTA -> frm_Login -> chỉnh lại đường dẫn server ở ckDN_CheckedChanged
+thành đường dẫn máy chủ.
+
+Kết nối lại QL_TRUNGTAMTADataSet.xsd 
+(hoặc tạo mới 1 dataset chỉ lấy View danh sách phân mảnh là được rồi)
+
+Chạy phần mềm và trải nghiệm :D

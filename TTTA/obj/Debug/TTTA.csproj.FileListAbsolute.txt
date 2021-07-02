@@ -1,0 +1,66 @@
+C:\Users\Admin\Documents\Nhom8_ReplData\TTTA\bin\Debug\TTTA.exe.config
+C:\Users\Admin\Documents\Nhom8_ReplData\TTTA\bin\Debug\TTTA.exe
+C:\Users\Admin\Documents\Nhom8_ReplData\TTTA\bin\Debug\TTTA.pdb
+C:\Users\Admin\Documents\Nhom8_ReplData\TTTA\obj\Debug\TTTA.QLGV.resources
+C:\Users\Admin\Documents\Nhom8_ReplData\TTTA\obj\Debug\TTTA.Properties.Resources.resources
+C:\Users\Admin\Documents\Nhom8_ReplData\TTTA\obj\Debug\TTTA.csproj.GenerateResource.Cache
+C:\Users\Admin\Documents\Nhom8_ReplData\TTTA\obj\Debug\TTTA.exe
+C:\Users\Admin\Documents\Nhom8_ReplData\TTTA\obj\Debug\TTTA.pdb
+C:\Users\Admin\Documents\Nhom8_ReplData\TTTA\obj\Debug\TTTA.QLHV.resources
+C:\Users\Admin\Documents\Nhom8_ReplData\TTTA\obj\Debug\TTTA.DKHV.resources
+C:\Users\Admin\Documents\Nhom8_ReplData\TTTA\obj\Debug\TTTA.Login.resources
+C:\Users\Admin\Documents\Nhom8_ReplData\TTTA\obj\Debug\TTTA.QuanLy.resources
+C:\Users\Admin\Documents\Nhom8_ReplData\TTTA\obj\Debug\TTTA.TKB.resources
+F:\Học tập\CSDL phân tán\TTTA\TTTA\bin\Debug\TTTA.exe.config
+F:\Học tập\CSDL phân tán\TTTA\TTTA\obj\Debug\TTTA.exe
+F:\Học tập\CSDL phân tán\TTTA\TTTA\obj\Debug\TTTA.pdb
+F:\Học tập\CSDL phân tán\TTTA\TTTA\bin\Debug\TTTA.exe
+F:\Học tập\CSDL phân tán\TTTA\TTTA\bin\Debug\TTTA.pdb
+F:\Học tập\CSDL phân tán\TTTA\TTTA\obj\Debug\TTTA.csprojResolveAssemblyReference.cache
+F:\Học tập\CSDL phân tán\TTTA\TTTA\obj\Debug\TTTA.DKHV.resources
+F:\Học tập\CSDL phân tán\TTTA\TTTA\obj\Debug\TTTA.QLGV.resources
+F:\Học tập\CSDL phân tán\TTTA\TTTA\obj\Debug\TTTA.Properties.Resources.resources
+F:\Học tập\CSDL phân tán\TTTA\TTTA\obj\Debug\TTTA.QLHV.resources
+F:\Học tập\CSDL phân tán\TTTA\TTTA\obj\Debug\TTTA.QuanLy.resources
+F:\Học tập\CSDL phân tán\TTTA\TTTA\obj\Debug\TTTA.TKB.resources
+F:\Học tập\CSDL phân tán\TTTA\TTTA\obj\Debug\TTTA.csproj.GenerateResource.Cache
+F:\Học tập\CSDL phân tán\TTTA\TTTA\obj\Debug\TTTA.exe.licenses
+F:\Học tập\CSDL phân tán\TTTA\TTTA\obj\Debug\TTTA.frm_QuanLy.resources
+F:\Học tập\CSDL phân tán\TTTA\TTTA\obj\Debug\TTTA.WaitForm1.resources
+F:\Học tập\CSDL phân tán\TTTA\TTTA\obj\Debug\TTTA.frm_Login.resources
+C:\Users\Admin\Documents\Zalo Received Files\TTTA\bin\Debug\TTTA.exe.config
+C:\Users\Admin\Documents\Zalo Received Files\TTTA\obj\Debug\TTTA.exe
+C:\Users\Admin\Documents\Zalo Received Files\TTTA\obj\Debug\TTTA.pdb
+C:\Users\Admin\Documents\Zalo Received Files\TTTA\bin\Debug\TTTA.exe
+C:\Users\Admin\Documents\Zalo Received Files\TTTA\bin\Debug\TTTA.pdb
+C:\Users\Admin\Documents\Zalo Received Files\TTTA\obj\Debug\TTTA.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Documents\Zalo Received Files\TTTA\obj\Debug\TTTA.DKHV.resources
+C:\Users\Admin\Documents\Zalo Received Files\TTTA\obj\Debug\TTTA.frm_Login.resources
+C:\Users\Admin\Documents\Zalo Received Files\TTTA\obj\Debug\TTTA.frm_QuanLy.resources
+C:\Users\Admin\Documents\Zalo Received Files\TTTA\obj\Debug\TTTA.QLGV.resources
+C:\Users\Admin\Documents\Zalo Received Files\TTTA\obj\Debug\TTTA.Properties.Resources.resources
+C:\Users\Admin\Documents\Zalo Received Files\TTTA\obj\Debug\TTTA.QLHV.resources
+C:\Users\Admin\Documents\Zalo Received Files\TTTA\obj\Debug\TTTA.QuanLy.resources
+C:\Users\Admin\Documents\Zalo Received Files\TTTA\obj\Debug\TTTA.TKB.resources
+C:\Users\Admin\Documents\Zalo Received Files\TTTA\obj\Debug\TTTA.WaitForm1.resources
+C:\Users\Admin\Documents\Zalo Received Files\TTTA\obj\Debug\TTTA.csproj.GenerateResource.Cache
+C:\Users\Admin\Documents\Zalo Received Files\TTTA\obj\Debug\TTTA.exe.licenses
+C:\Users\Admin\Desktop\CSDL Nâng Cao\TTTA\bin\Debug\TTTA.exe.config
+C:\Users\Admin\Desktop\CSDL Nâng Cao\TTTA\obj\Debug\TTTA.exe
+C:\Users\Admin\Desktop\CSDL Nâng Cao\TTTA\obj\Debug\TTTA.pdb
+C:\Users\Admin\Desktop\CSDL Nâng Cao\TTTA\bin\Debug\TTTA.exe
+C:\Users\Admin\Desktop\CSDL Nâng Cao\TTTA\bin\Debug\TTTA.pdb
+C:\Users\Admin\Desktop\CSDL Nâng Cao\TTTA\obj\Debug\TTTA.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\CSDL Nâng Cao\TTTA\obj\Debug\TTTA.frm_Login.resources
+C:\Users\Admin\Desktop\CSDL Nâng Cao\TTTA\obj\Debug\TTTA.Properties.Resources.resources
+C:\Users\Admin\Desktop\CSDL Nâng Cao\TTTA\obj\Debug\TTTA.QuanLy.resources
+C:\Users\Admin\Desktop\CSDL Nâng Cao\TTTA\obj\Debug\TTTA.TKB.resources
+C:\Users\Admin\Desktop\CSDL Nâng Cao\TTTA\obj\Debug\TTTA.WaitForm1.resources
+C:\Users\Admin\Desktop\CSDL Nâng Cao\TTTA\obj\Debug\TTTA.csproj.GenerateResource.Cache
+C:\Users\Admin\Desktop\CSDL Nâng Cao\TTTA\obj\Debug\TTTA.exe.licenses
+C:\Users\Admin\Desktop\CSDL Nâng Cao\TTTA\obj\Debug\TTTA.UserControlHocVien.resources
+C:\Users\Admin\Desktop\CSDL Nâng Cao\TTTA\obj\Debug\TTTA.UserControlDiem.resources
+C:\Users\Admin\Desktop\CSDL Nâng Cao\TTTA\obj\Debug\TTTA.UserControlGiaoVien.resources
+C:\Users\Admin\Desktop\CSDL Nâng Cao\TTTA\obj\Debug\TTTA.UserControlThiCu.resources
+C:\Users\Admin\Desktop\CSDL Nâng Cao\TTTA\obj\Debug\TTTA.UserControlThoiKhoaBieu.resources
+C:\Users\Admin\Desktop\CSDL Nâng Cao\TTTA\obj\Debug\TTTA.UserControlThongKe.resources
